@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sarmijavier/sarmijavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System engineering and computing student. Currently learning AI and development in Python :tw-1f40d: and Javascript.
 
-Here are some ideas to get you started:
+- :tw-1f4d3: I’m currently working on my thesis
+- :tw-1f4bb: I'm  Interested in astronomy and computer science
+- 💬 Tell me!, How can I help you ? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### CONTACT :)
+#####- [Twitter](https://twitter.com/SarmiJavier "Twitter")
+#####- [Instagram](https://www.instagram.com/sarmijavier/ "Instagram")
+#####- [Linkedin](https://www.linkedin.com/in/h-javier-sarmiento-y-28085a19a/ "Linkedin")
+#####- Platzi -> https://platzi.com/@sarmijavier/
+
+and Never stop learning.
