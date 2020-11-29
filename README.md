@@ -11,7 +11,7 @@ System engineering and computing student. Currently learning AI and development 
 ##### - [Twitter](https://twitter.com/SarmiJavier "Twitter")
 ##### - [Instagram](https://www.instagram.com/sarmijavier/ "Instagram")
 ##### - [Linkedin](https://www.linkedin.com/in/h-javier-sarmiento-y-28085a19a/ "Linkedin")
-##### Would  you like my progress at platzi ?
+##### Would  you like taking a look my progress at platzi ?
 ##### - Platzi -> https://platzi.com/@sarmijavier/
 
 and Never stop learning.
