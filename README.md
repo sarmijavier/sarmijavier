@@ -14,5 +14,5 @@ System engineering and computing student. Currently learning AI and development 
 ##### Would  you like taking a look my progress at platzi ?
 ##### - Platzi -> https://platzi.com/p/Yahuarcani/
 
-and Never stop learning.
+and Never stop coding.
 Have a great day. Greetings !!!🛸
