@@ -9,7 +9,7 @@ System engineering and computing student. Currently learning AI and development 
 #### CONTACT :)
 ##### - [Personal WebSite](https://sarmijavier.herokuapp.com/ "Personal WebSite")
 ##### - [Twitter](https://twitter.com/SarmiJavier "Twitter")
-##### - [Instagram](https://www.instagram.com/sarmijavier/ "Instagram")
+##### - [Instagram](https://www.instagram.com/y4huarcani/ "Instagram")
 ##### - [Linkedin](https://www.linkedin.com/in/h-javier-sarmiento-y-28085a19a/ "Linkedin")
 ##### Would  you like taking a look my progress at platzi ?
 ##### - Platzi -> https://platzi.com/p/Yahuarcani/
