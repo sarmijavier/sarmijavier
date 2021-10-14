@@ -3,7 +3,7 @@
 Python and Js developer, eternal student, Platzi Master C8.
 
 - 📚 I’m currently on the way to be a data engineer with Platzi.
-- ✈✈️ I'm full stack developer at [Itlookssimple](https://www.itlookssimple.com/") 
+- ✈✈ I'm a full stack developer at [Itlookssimple](https://www.itlookssimple.com/ "Itlookssimple") 
 - 🖥️ I'm  Interested in astronomy and computer science
 - 💬 Tell me!, How can I help you ? 
 
