@@ -25,9 +25,9 @@ I'm a software developer with passion for technology. Always learning, improving
 
 
 ## 🌎 Find me around the web:
-##### - [Personal WebSite](https://hjsy.herokuapp.com/ "Personal WebSite")
+##### - [Personal WebSite](https://sarmijavier.com "Personal WebSite")
 ##### - [Twitter](https://twitter.com/SarmiJavier "Twitter")
-##### - [Instagram](https://www.instagram.com/y4huarcani/ "Instagram")
+##### - [Instagram](https://www.instagram.com/sarmijavier/ "Instagram")
 ##### - [Linkedin](https://www.linkedin.com/in/h-javier-sarmiento-y-28085a19a/ "Linkedin")
 ##### Would  you like taking a look my progress at platzi ?
 ##### - Platzi -> https://platzi.com/p/Yahuarcani/
