@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Javier
 
-I'm a software developer with passion for technology. Always learning, improving my knowledge and skills. Willing to accept challenges and giving the 110% of me.
+I'm a full stack developer, I've been working on projects with Python(Flask, Django), Js(React) and agile methodologies. I'm focused on learning Backend development and Data science.
 
 - 📚 I’m currently on the way to be a data engineer with Platzi.
 - ✈ I'm a full stack developer at [Itlookssimple](https://www.itlookssimple.com/ "Itlookssimple") 
