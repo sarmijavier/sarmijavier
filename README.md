@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Javier
 
-I'm a full stack developer, I've been working on projects with Python(Flask, Django), Js(React) and agile methodologies. I'm focused on learning Backend development and Data science.
+I am Javier, a student and an experienced and passionate full stack developer. I have been working on projects with Python(Flask), Js(React) and agile methodologies. I'm focused on learning Backend development and Data science with the goal of becoming a software engineer.
 
-- 📚 I’m currently on the way to be a data engineer with Platzi.
-- ✈ I'm a full stack developer at [Itlookssimple](https://www.itlookssimple.com/ "Itlookssimple") 
-- 🖥️ I'm  Interested in data and data structures
+- 🖥️ I'm  Interested in data science and backend development.
 - 💬 Tell me!, How can I help you ? 
 
 ## 🎯 Some technologies I use:
