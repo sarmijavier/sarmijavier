@@ -1,10 +1,17 @@
-### Hi there 👋, I'm Javier
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Javier Sarmiento
+========================================================================================================================================
+
+Full Stack Developer
+--------------------
 
 I am Javier, a student and an experienced and passionate full stack developer. I have been working on projects with Python(Flask), Js(React) and agile methodologies. I'm focused on learning Backend development and Data science with the goal of becoming a software engineer.
 
-- 🖥️ I'm  Interested in data science and backend development.
-- 💬 Tell me!, How can I help you ? 
-
+*   🌍  I'm based in Bogotá
+*   🖥️  See my portfolio at [My Portfolio](http://sarmijavier.com)
+*   ✉️  You can contact me at [hjsarmiento1999@gmail.com](mailto:hjsarmiento1999@gmail.com)
+*   🧠  I'm learning Django and Linux
+*   🤝  I'm open to collaborating on Data, IoT and Backend projects
+*   ⚡  Never stop smailing
 ## 🎯 Some technologies I use:
 
 <p align="center">
