@@ -11,7 +11,6 @@ I am Javier, a student and an experienced and passionate full stack developer. I
 *   ✉️  You can contact me at [hjsarmiento1999@gmail.com](mailto:hjsarmiento1999@gmail.com)
 *   🧠  I'm learning Django and Linux
 *   🤝  I'm open to collaborating on Data, IoT and Backend projects
-*   ⚡  Never stop smailing
 ## 🎯 Some technologies I use:
 
 <p align="center">
