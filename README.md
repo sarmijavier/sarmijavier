@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am Javier, a student and an experienced and passionate full stack developer. I have been working on projects with Python(Flask), Js(React) and agile methodologies. I'm focused on learning Backend development and Data science.
+I am Javier,an experienced and passionate full stack developer. I have been working on projects with Python, Js and agile methodologies. I'm focused on learning Backend development and Data Engineering.
 
 *   🌍  I'm based in Bogotá
 *   🖥️  See my portfolio at [My Portfolio](http://sarmijavier.com)
