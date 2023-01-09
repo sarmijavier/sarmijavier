@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am Javier,an experienced and passionate full stack developer. I have been working on projects with Python, Js and agile methodologies. I'm focused on learning Backend development and Data Engineering.
+I'm an experienced and enthusiast full stack developer with 2 years of significant experience using Python, Javascript and agile methodologies. Besides I’m passionate about developing backend software applications. Excellent problem-solving, self-taught and ability to perform well in a team. Seeking for an opportunity to develop product as a software engineer, as well as grow and develop my own skills.
+
+I have working experience in a wide range of technologies such as Flask, React, SQL, Python, Javascript, GIT, GitHub and AWS.
+
+Currently working and learning
+Django, Docker, React, Flask, AWS.
 
 *   🌍  I'm based in Bogotá
 *   🖥️  See my portfolio at [My Portfolio](http://sarmijavier.com)
 *   ✉️  You can contact me at [hjsarmiento1999@gmail.com](mailto:hjsarmiento1999@gmail.com)
-*   🧠  I'm learning Django and Linux
-*   🤝  I'm open to collaborating on Data, IoT and Backend projects
+
 ## 🎯 Some technologies I use:
 
 <p align="center">
