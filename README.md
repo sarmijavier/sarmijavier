@@ -2,9 +2,9 @@
 Currently working and learning
 
 
-*   🌍  I'm based in Bogotá
-*   🖥️  See my portfolio at [My Portfolio](http://sarmijavier.com)
-*   ✉️  You can contact me at [hjsarmiento1999@gmail.com](mailto:hjsarmiento1999@gmail.com)
+*   🌌 I'm in the constellation Canis Major.
+*   🖥️ See my portfolio at [My Portfolio](http://sarmijavier.com)
+*   ✉️  You can contact me at [hjsarmiento1999@gmail.com](mailto:hjsarmiento1999@gmail.com)
 
 ## 🌎 Find me around the web:
 ##### - [Personal WebSite](https://sarmijavier.com "Personal WebSite")
